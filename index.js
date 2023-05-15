@@ -1,5 +1,5 @@
  //initializing variables
- let audio = new Audio("alarm_tone.mp3");
+ let audio = new Audio("./alarm_tone.mp3");
  let grabHours = document.querySelector(".hrs");
  let grabMinutes = document.querySelector(".min");
  let grabSeconds = document.querySelector(".sec");
